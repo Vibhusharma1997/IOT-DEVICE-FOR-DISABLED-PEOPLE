@@ -2,7 +2,7 @@
 
 
 
-## In this Project IoT device was developed which enhances communication between the physically disabled (Deaf, Dumb and Blind). The various functionalities performed by each module is as follows:
+### In this Project IoT device was developed which enhances communication between the physically disabled (Deaf, Dumb and Blind). The various functionalities performed by each module is as follows:
 
 ***Hand Gesture Model: The flex sensor records the resistance obtained by performing the gestures. The value is then processed by the Arduino and the corresponding character is sent to the text to speech application which then generates the output.***
 
