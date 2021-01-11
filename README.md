@@ -25,6 +25,6 @@ Python 3
 Tesseract 
 Open CV
 Think Speak
-Android Studio 
+Android Studio
 
 
