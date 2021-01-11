@@ -10,4 +10,21 @@
 
 ***Live Tracking Module: Whenever the alert switch is pressed, the GPS module activates, and the alert text message is generated and forwarded to the respective mobile number of the user. The output is further sent to the text to speech for generating an audio and visual.***
 
+HARDWARE USED:
+Flex Sensor 
+Pi Camera
+Tracking Module 
+ADC Module
+Raspberry Pi 3 B+
+LCD Display
+Speaker 
+Wi-Fi Module
+
+SOFTWARE USED:
+Python 3
+Tesseract 
+Open CV
+Think Speak
+Android Studio 
+
 
